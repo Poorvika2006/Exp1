@@ -1,3 +1,5 @@
 Git Experiment 01
 This experiment demonstrates source code management using Git.
 This change is made in the main branch.
+This change is made in the feature branch.
+Learning Git branching and version control.
